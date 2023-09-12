@@ -8,7 +8,7 @@
 
 
 <body>
-<a href="https://www.Google.com/"> Im Sorry, I love you </a>
+
 <h3>Dear The Unlovable</h3>
 <br>
 	You've been the greatest person ever in my life, the one that made me feel happiest, 
