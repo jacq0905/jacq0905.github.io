@@ -24,6 +24,8 @@
 	the consequences of falling into true love knowing that the chances of it ending is high,
 	but i made the decision, the wrong one.
 
+
+
 <br>
 	Eventhough i got the spend the happiest 9 months i ever had, it hurts so much to know that, 
 	in turn for my happiness, in turn for your love, i have to deal with you having to leave, 
@@ -43,4 +45,9 @@ Love Forever
 Jack
 </h2>
 </body>
+<style>
+	body {
+background-color: #fec7d7;
+}
+</style>
 </html>
