@@ -45,9 +45,5 @@ Love Forever
 Jack
 </h2>
 </body>
-<style>
-	body {
-background-color: #fec7d7;
-}
-</style>
+
 </html>
