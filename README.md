@@ -25,7 +25,7 @@
 	with you, even if i had to deal with all the sorrow and pain, even if i had to deal with 
 	the consequences of falling into true love knowing that the chances of it ending is high,
 	but i made the decision, the wrong one.
-</br>
+
 <br>
 	Eventhough i got the spend the happiest 9 months i ever had, it hurts so much to know that, 
 	in turn for my happiness, in turn for your love, i have to deal with you having to leave, 
@@ -37,7 +37,7 @@
 	how your parents wouldve felt, i can't be more sorry. i learnt, grew, and matured alot with 
 	you and i can't appreciate it more but it's my time to face the consequences now. i'm sorry,
 	im sorry for my selfishness. i love you, i really do alot.
-</br>
+
 <h2>
 Love Forever
 </h2>
