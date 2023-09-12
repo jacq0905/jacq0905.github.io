@@ -6,7 +6,7 @@
 
 <link rel="stylesheet" type="text/css" href="my_style1.css">
 
-<title>Im Sorry</title>
+
 <body>
 <a href="https://www.Google.com/"> Im Sorry, I love you </a>
 <h3>Dear The Unlovable</h3>
